@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <link rel="icon" href="/assets/img/bookstore.ico" type="image/x-icon" />
+    <title>@ViewBag.Title</title>
+    <!--Font-->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap" />
+    <!--CSS-->
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/fonts/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="/assets/fonts/simple-line-icons.min.css" />
+    <link rel="stylesheet" href="/assets/css/Hero-Clean-Reverse.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="/assets/css/Light-Contact-List.css" />
+    <link rel="stylesheet" href="/assets/css/Login-with-overlay-image.css" />
+    <link rel="stylesheet" href="/assets/css/Pretty-Product-List.css" />
+    <link rel="stylesheet" href="/assets/css/Simple-Slider.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/Team.css" />
+    <link rel="stylesheet" href="/assets/css/reponsive.css" />
+    <link rel="stylesheet" href="/assets/css/rieng.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css">
+    <!--Custom js-->
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <style>
+        #mainNav {
+            background-color: #fff !important;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #000;
+        }
+
+        .home-section {
+            text-align: center;
+        }
+
+        .section-title {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .slider-container {
+            position: relative;
+            width: 100%;
+            max-width: 90%;
+            margin: 0 auto;
+            overflow: hidden;
+            height: 500px;
+        }
+
+        .slider {
+            display: flex;
+            transition: transform 0.5s ease;
+            height: 0px
+        }
+
+        .slider-item {
+            min-width: 100%;
+            box-sizing: border-box;
+            align-items: center;
+            justify-content: space-evenly;
+            padding: 0px 170px;
+        }
+
+            .slider-item.active {
+                display: flex; /* Only active item will be displayed */
+            }
+
+
+        .book-info {
+            text-align: left;
+            color: #333;
+            flex: 1;
+            padding-right: 20px;
+        }
+
+        .book-title {
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .book-description {
+            font-size: 20px;
+            color: #666;
+            margin: 10px 0;
+        }
+
+        .btn-read {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .book-cover {
+            width: 325px;
+            height: auto;
+            border-radius: 8px;
+            object-fit: cover;
+        }
+
+        .slider-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: rgba(0, 0, 0, 0.6);
+            color: #fff;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            padding: 10px;
+            border-radius: 50%;
+            z-index: 10;
+        }
+
+        .prev-btn {
+            left: 10px;
+        }
+
+        .next-btn {
+            right: 10px;
+        }
+        /* Hiệu ứng khi hover vào từng sản phẩm */
+        .product-container {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid transparent;
+            padding: 10px;
+        }
+
+            .product-container:hover {
+                transform: scale(1.05); /* Phóng to nhẹ */
+                box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Thêm bóng đổ */
+                border: 1px solid #ddd; /* Đường viền nhấn mạnh */
+                background-color: #f9f9f9; /* Nền sáng hơn */
+                border-radius: 10px
+            }
+
+        .product-image {
+            width: 330px;
+            transition: transform 0.3s ease;
+        }
+
+        .product-container:hover .product-image {
+            transform: scale(1.0); /* Phóng to ảnh */
+        }
+
+        /*tìm kiếm*/
+        #suggestionList {
+            display: none;
+            border: 1px solid #ccc;
+            background: #fff;
+            max-height: 300px;
+            overflow-y: auto;
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .suggestion-item {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+            
+        }
+
+            .suggestion-item img {
+                width: 100px;
+                height: 100px;
+                margin-right: 10px;
+                border-radius: 4px;
+            }
+
+            .suggestion-item:hover {
+                background: #f0f0f0;
+            }
+        .price-amount {
+            position: absolute;
+            top: 10px;
+            right: 30px;
+            background: linear-gradient(270deg, #888184, #f7eaf3);
+            padding: 0px 10px;
+            color: black;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <!--Nav & tiêu biểu-->
+    
+    @Html.Action("Header", "Layout")
+
+    <div style="background-position: 0 -60px; padding: 0px 3rem">
+        @RenderBody()
+    </div>
+
+
+    @Html.Action("Footer", "Layout")
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="/assets/js/basket.js"></script>
+    <script src="/assets/js/bold-and-bright.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
+    <script src="/assets/js/login.js"></script>
+    <script src="/assets/js/price.js"></script>
+    <script src="/assets/js/Simple-Slider.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

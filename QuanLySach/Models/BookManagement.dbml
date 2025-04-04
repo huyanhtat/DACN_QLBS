@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlbs" Class="BookManagementDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=MSI\SQLEXPRESS;Initial Catalog=qlbs;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="qlbsConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.author" Member="authors">
+    <Type Name="author">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="bio" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="author_book_join_author" Member="book_join_authors" ThisKey="id" OtherKey="id_author" Type="book_join_author" />
+    </Type>
+  </Table>
+  <Table Name="dbo.wishlist" Member="wishlists">
+    <Type Name="wishlist">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="book_wishlist" Member="book" ThisKey="id_book" OtherKey="id" Type="book" IsForeignKey="true" />
+      <Association Name="user_wishlist" Member="user" ThisKey="id_user" OtherKey="id" Type="user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.bill" Member="bills">
+    <Type Name="bill">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="total_price" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="id_method" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_shipping" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="status" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="note" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="receive" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="bill_bill_detail" Member="bill_details" ThisKey="id" OtherKey="id_bill" Type="bill_detail" />
+      <Association Name="method_bill" Member="method" ThisKey="id_method" OtherKey="id" Type="method" IsForeignKey="true" />
+      <Association Name="shipping_bill" Member="shipping" ThisKey="id_shipping" OtherKey="id" Type="shipping" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.bill_detail" Member="bill_details">
+    <Type Name="bill_detail">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_bill" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="vat" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+      <Association Name="bill_bill_detail" Member="bill" ThisKey="id_bill" OtherKey="id" Type="bill" IsForeignKey="true" />
+      <Association Name="book_bill_detail" Member="book" ThisKey="id_book" OtherKey="id" Type="book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.book" Member="books">
+    <Type Name="book">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="barcode" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="priority" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="number_of_purchases" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="number_of_views" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="create_by" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="modified_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="modified_by" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="id_publisher" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="code_category" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="quantity_retained" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="book_wishlist" Member="wishlists" ThisKey="id" OtherKey="id_book" Type="wishlist" />
+      <Association Name="book_bill_detail" Member="bill_details" ThisKey="id" OtherKey="id_book" Type="bill_detail" />
+      <Association Name="book_book_join_author" Member="book_join_authors" ThisKey="id" OtherKey="id_book" Type="book_join_author" />
+      <Association Name="book_cart_detail" Member="cart_details" ThisKey="id" OtherKey="id_book" Type="cart_detail" />
+      <Association Name="book_purchase_history" Member="purchase_histories" ThisKey="id" OtherKey="id_book" Type="purchase_history" />
+      <Association Name="book_category_book" Member="book_category" ThisKey="code_category" OtherKey="code" Type="book_category" IsForeignKey="true" />
+      <Association Name="publisher_book" Member="publisher" ThisKey="id_publisher" OtherKey="id" Type="publisher" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.book_category" Member="book_categories">
+    <Type Name="book_category">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="code" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="book_category_book" Member="books" ThisKey="code" OtherKey="code_category" Type="book" />
+    </Type>
+  </Table>
+  <Table Name="dbo.book_join_author" Member="book_join_authors">
+    <Type Name="book_join_author">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="role" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_author" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="author_book_join_author" Member="author" ThisKey="id_author" OtherKey="id" Type="author" IsForeignKey="true" />
+      <Association Name="book_book_join_author" Member="book" ThisKey="id_book" OtherKey="id" Type="book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.cart" Member="carts">
+    <Type Name="cart">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="update_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="cart_cart_detail" Member="cart_details" ThisKey="id" OtherKey="id_cart" Type="cart_detail" />
+      <Association Name="user_cart" Member="user" ThisKey="id_user" OtherKey="id" Type="user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.cart_detail" Member="cart_details">
+    <Type Name="cart_detail">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_cart" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Association Name="book_cart_detail" Member="book" ThisKey="id_book" OtherKey="id" Type="book" IsForeignKey="true" />
+      <Association Name="cart_cart_detail" Member="cart" ThisKey="id_cart" OtherKey="id" Type="cart" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.discount" Member="discounts">
+    <Type Name="discount">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="discount_code" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="discount_percentage" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+      <Column Name="discount_amount" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="start_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="end_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.method" Member="methods">
+    <Type Name="method">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="processing_fee" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="currency" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="active" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="method_bill" Member="bills" ThisKey="id" OtherKey="id_method" Type="bill" />
+      <Association Name="method_purchase_history" Member="purchase_histories" ThisKey="id" OtherKey="id_payment_method" Type="purchase_history" />
+    </Type>
+  </Table>
+  <Table Name="dbo.publisher" Member="publishers">
+    <Type Name="publisher">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="publisher_book" Member="books" ThisKey="id" OtherKey="id_publisher" Type="book" />
+    </Type>
+  </Table>
+  <Table Name="dbo.purchase_history" Member="purchase_histories">
+    <Type Name="purchase_history">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="id_user" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="purchase_date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="total_price" Type="System.Decimal" DbType="Decimal(10,2) NOT NULL" CanBeNull="false" />
+      <Column Name="id_payment_method" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_shipping" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Association Name="book_purchase_history" Member="book" ThisKey="id_book" OtherKey="id" Type="book" IsForeignKey="true" />
+      <Association Name="method_purchase_history" Member="method" ThisKey="id_payment_method" OtherKey="id" Type="method" IsForeignKey="true" />
+      <Association Name="shipping_purchase_history" Member="shipping" ThisKey="id_shipping" OtherKey="id" Type="shipping" IsForeignKey="true" />
+      <Association Name="user_purchase_history" Member="user" ThisKey="id_user" OtherKey="id" Type="user" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.role" Member="roles">
+    <Type Name="role">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="code" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="role_user" Member="users" ThisKey="code" OtherKey="code_role" Type="user" />
+    </Type>
+  </Table>
+  <Table Name="dbo.shipping" Member="shippings">
+    <Type Name="shipping">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="method_name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="description" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="cost_ship" Type="System.Decimal" DbType="Decimal(10,2)" CanBeNull="true" />
+      <Column Name="delivery_time" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="carrier" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="tracking_url" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="active" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+      <Column Name="create_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="modified_date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="created_by" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="modified_by" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="shipping_bill" Member="bills" ThisKey="id" OtherKey="id_shipping" Type="bill" />
+      <Association Name="shipping_purchase_history" Member="purchase_histories" ThisKey="id" OtherKey="id_shipping" Type="purchase_history" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[user]" Member="users">
+    <Type Name="user">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="full_name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="image64bit" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="user_name" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="gender" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="date_of_birth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="create_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="create_by" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="modified_date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="modified_by" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="code_role" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="user_wishlist" Member="wishlists" ThisKey="id" OtherKey="id_user" Type="wishlist" />
+      <Association Name="user_cart" Member="carts" ThisKey="id" OtherKey="id_user" Type="cart" />
+      <Association Name="user_purchase_history" Member="purchase_histories" ThisKey="id" OtherKey="id_user" Type="purchase_history" />
+      <Association Name="role_user" Member="role" ThisKey="code_role" OtherKey="code" Type="role" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

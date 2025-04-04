@@ -1,0 +1,260 @@
+﻿@model QuanLySach.Models.ChiTietSach
+
+@{
+    if (Session["id"] != null)
+    {
+        ViewBag.Title = "Chi Tiết Sách";
+        Layout = "~/Views/Shared/LayoutKH.cshtml";
+    }
+    else
+    {
+        ViewBag.Title = "Chi Tiết Sách";
+        Layout = "~/Views/Shared/Layout.cshtml";
+    }
+}
+
+<style>
+    .border-dark:hover {
+        background-color: black;
+        color: white;
+    }
+</style>
+<div class="container py-4 py-xl-5" style="font-family: Heebo;">
+    <div class="row gy-4 gy-md-0">
+        <div class="col-md-6">
+            <div class="p-xl-5 m-xl-5">
+                <img class="rounded img-fluid w-100 fit-cover" style="min-height: 300px;" src="@Url.Action("GetImage", "Sach", new { id = Model.Id })" />
+            </div>
+        </div>
+        <!-- Biểu tượng trái tim để lưu vào wishlist -->
+
+        <div class="col-md-6 d-md-flex align-items-md-center">
+            <div class="col-md-10">
+                @if (Session["id"] != null)
+                {
+                    <button type="button" class="btn btn-outline-danger btn-sm border-dark" style="float: right" onclick="addToWishlist(@Model.Id)" style="margin-left: 10px;">
+                        <i class="bi bi-heart"></i>
+                    </button>
+                }
+                <h2 class="fw-bold">@Model.tenSach.ToUpper()</h2>
+                <p class="my-3">
+                    Tác Giả:
+                    <span style="color: rgb(86, 90, 97);">
+                        @Model.tenTacGia
+                    </span>
+
+                </p>
+
+                <p class="my-3">
+                    Thể Loại:
+                    <span style="color: rgb(86, 90, 97);">
+                        @Model.chuDe
+                    </span>
+
+                </p>
+                <p class="my-3">
+                    Nhà Xuất Bản:
+                    <span style="color: rgb(86, 90, 97);">
+                        @Model.NXB
+                    </span>
+
+                </p>
+                <p class="price" style="font-size: 27px">
+                    Giá:
+                    <b>@string.Format("{0:N0}", Model.gia)</b><span class="price-symbol"> VNĐ</span>
+                </p>
+                @if (Model.soLuong == 0)
+                {
+                    <p style="color: red">Hiện tại sản phảm đã hết hàng</p>
+                }
+                <p style="display: flex">
+                    @if (Model.soLuong != 0)
+                    {
+                        <a class="btn btn-outline-primary btn-lg border-dark"
+                           role="button"
+                           href="@Url.Action("AddGioHang", "GioHang", new { @ms = Model.Id })"
+                           style="font-family: Heebo; margin-right: 10px"><i class="bi bi-cart"></i> Thêm vào giỏ hàng</a>
+                    }
+
+                    <button type="button" id="speakButton" class="btn btn-lg border-dark me-2" onclick="toggleSpeech()">
+                        <i class="bi bi-volume-up"></i> Nghe Mô Tả
+                    </button>
+                </p>
+                <select id="voiceSelect" style="display: none"></select>
+
+            </div>
+        </div>
+    </div>
+    <div>
+        <br>
+        <ul class="list-inline">
+            <li class="list-inline-item" style="font-family: Heebo; font-weight: bold;">
+                Nội dung tóm tắt
+            </li>
+            <li class="list-inline-item" style="font-family: Heebo; font-weight: bold;">Người xem (@Model.number_of_views)</li>
+            <li class="list-inline-item" style="font-family: Heebo; font-weight: bold;">Lượt mua (@Model.number_of_purchases)</li>
+        </ul>
+    </div>
+    <div>
+        <p style="font-family: Heebo; text-align: justify;" id="tab-info">
+            <span style="color: rgb(86, 90, 97);">
+                @Html.Raw(Model.moTa)
+            </span>
+            <br>
+        </p>
+
+    </div>
+    @Html.Action("Details", "Sach", new { @productId = Model.Id })
+</div>
+
+<script>
+    // Nội dung văn bản đầy đủ (giải mã nội dung được mã hóa để xử lý ký tự tiếng Việt)
+    let text = decodeURIComponent('@Url.Encode(Model.moTa)')
+               .replace(/<br\s*\/?>/gi, '\n'); // Thay <br> thành xuống dòng
+
+    let synth = window.speechSynthesis;
+    let isSpeaking = false; // Trạng thái TTS
+    let lastLanguage = 'vi'; // Theo dõi ngôn ngữ đã đọc trước đó ('vi' cho tiếng Việt, 'en' cho tiếng Anh)
+
+    function listVoices() {
+    const voices = window.speechSynthesis.getVoices();
+
+
+    // Lọc các giọng tiếng Việt
+    const vietnameseVoices = voices.filter(voice => voice.lang.startsWith('vi'));
+
+
+
+    // Lấy các giọng với index cụ thể (320 và 321)
+    vietnameseVoices.forEach((voice, index) => {
+        if (index === 1 || index === 320 || index === 321) {
+            const option = document.createElement("option");
+            option.value = index; // Dùng index làm giá trị
+            option.textContent = `${voice.name} (${voice.lang}) ${voice.default ? " [Mặc định]" : ""}`;
+            voiceSelect.appendChild(option);
+        }
+    });
+}
+
+// Gọi danh sách khi các giọng đã tải xong
+window.speechSynthesis.onvoiceschanged = listVoices;
+
+
+
+    // Hàm kiểm tra dấu tiếng Việt
+    function hasVietnameseAccents(word) {
+        return /[àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ123456789]/i.test(word);
+    }
+
+    // Hàm chuyển đổi để bắt đầu hoặc dừng đọc văn bản
+    function toggleSpeech() {
+        if (!isSpeaking) {
+            startSpeech();
+        } else {
+            stopSpeech();
+        }
+    }
+
+    // Bắt đầu TTS
+    function startSpeech() {
+        document.getElementById("speakButton").innerHTML = '<i class="bi bi-stop-circle"></i> Dừng';
+        isSpeaking = true;
+        speakText();
+    }
+
+    // Dừng TTS
+    function stopSpeech() {
+        document.getElementById("speakButton").innerHTML = '<i class="bi bi-volume-up"></i> Nghe Mô Tả';
+        isSpeaking = false;
+        synth.cancel(); // Dừng TTS ngay lập tức
+    }
+
+    // Hàm chính cho TTS với chuyển đổi ngôn ngữ và xử lý dấu +
+    async function speakText() {
+        if (!text || !isSpeaking) {
+            stopSpeech(); // Đổi lại nút thành "Nghe Mô Tả" khi hoàn thành
+            return;
+        }
+        const voices = window.speechSynthesis.getVoices(); // Lấy danh sách giọng
+        const selectedVoiceIndex = document.getElementById("voiceSelect").value; // Lấy giọng đã chọn
+        const selectedVoice = voices[320]; // Chọn giọng từ danh sách
+        const words = text.split(/(\s+|[.,\n])/); // Tách văn bản bằng khoảng trắng, dấu chấm, dấu phẩy, hoặc xuống dòng
+        text = ""; // Xóa văn bản vì chúng ta sẽ xử lý từng từ riêng lẻ
+
+        for (let word of words) {
+            // Xác định ngôn ngữ dựa trên việc từ có dấu tiếng Việt hay không
+            let currentLanguage = hasVietnameseAccents(word) ? 'vi' : 'en';
+
+            // Xử lý dấu câu hoặc xuống dòng
+            let pauseDuration = 0;
+            if (word === ".") {
+                pauseDuration = 0.5; // Dừng cho dấu chấm
+            } else if (word === ",") {
+                pauseDuration = 0.1; // Dừng cho dấu phẩy
+            } else if (word === "\n") {
+                pauseDuration = 0.7; // Dừng cho xuống dòng
+            } else {
+                // Thay dấu + bằng khoảng trắng cho tiếng Việt và loại bỏ dấu + cho tiếng Anh
+                let spokenWord = currentLanguage === 'en'
+                    ? word.replace(/\+/g, '')  // Loại bỏ dấu + cho tiếng Anh
+                    : word.replace(/\+/g, ' '); // Thay dấu + bằng khoảng trắng cho tiếng Việt
+
+                // Chỉ chuyển ngôn ngữ nếu khác với ngôn ngữ đã đọc trước đó
+                if (currentLanguage !== lastLanguage) {
+                    synth.cancel(); // Dừng TTS trước khi chuyển ngôn ngữ
+                    await pause(100); // Thêm một khoảng dừng ngắn trước khi chuyển ngôn ngữ
+                    lastLanguage = currentLanguage;
+                }
+
+                let utterance = new SpeechSynthesisUtterance(spokenWord);
+                utterance.lang = currentLanguage === 'en' ? 'en-US' : 'vi-VN';
+                utterance.rate = currentLanguage === 'en' ? 0.9 : 1.0; // Điều chỉnh tốc độ cho từ tiếng Anh
+                utterance.pitch = currentLanguage === 'en' ? 1.0 : 1.1;
+                utterance.volume = 0.8;
+                utterance.voice = selectedVoice;
+
+                // Đọc từ hiện tại với ngôn ngữ phù hợp
+                synth.speak(utterance);
+
+                // Đợi từ được đọc xong và kiểm tra từ tiếp theo
+                await new Promise(resolve => {
+                    utterance.onend = resolve;
+                });
+                continue; // Bỏ qua việc dừng nếu là từ thông thường
+            }
+
+            // Tạo khoảng dừng cho dấu câu hoặc xuống dòng
+            if (pauseDuration > 0) {
+                await pause(pauseDuration);
+            }
+        }
+
+        // Sau khi tất cả các từ trong đoạn đã được đọc, dừng lại
+        stopSpeech(); // Đổi lại nút thành "Nghe Mô Tả" khi hoàn thành
+    }
+
+    // Hàm trợ giúp để tạo khoảng dừng
+    function pause(duration) {
+        return new Promise(resolve => setTimeout(resolve, duration));
+    }
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script>
+    function addToWishlist(bookId) {
+        $.ajax({
+            url: '@Url.Action("AddToWishlist", "Wishlist")',
+            type: 'POST',
+            data: { bookId: bookId },
+            success: function(response) {
+                if (response.success) {
+                    alert(response.message); // Display success message
+                } else {
+                    alert(response.message); // Display error message
+                }
+            },
+            error: function() {
+                alert("Đã xảy ra lỗi. Vui lòng thử lại sau."); // Display generic error message
+            }
+        });
+    }
+</script>

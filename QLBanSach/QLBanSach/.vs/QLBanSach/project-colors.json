@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e759e44a-30ae-4f8e-93d4-642424abe8a4": {
+      "ProjectGuid": "e759e44a-30ae-4f8e-93d4-642424abe8a4",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "b496cb61-90e0-4a80-b074-feb997f8c76d": {
+      "ProjectGuid": "b496cb61-90e0-4a80-b074-feb997f8c76d",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "c50502a0-28bd-4712-b0a5-3a5b2d45c989": {
+      "ProjectGuid": "c50502a0-28bd-4712-b0a5-3a5b2d45c989",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "dfcbd943-a0ec-43c7-994c-7783f7981eeb": {
+      "ProjectGuid": "dfcbd943-a0ec-43c7-994c-7783f7981eeb",
+      "DisplayName": "DTO",
+      "ColorIndex": 3
+    },
+    "aab681df-2550-49f0-af40-2d7706035520": {
+      "ProjectGuid": "aab681df-2550-49f0-af40-2d7706035520",
+      "DisplayName": "QLBanSach",
+      "ColorIndex": 4
+    },
+    "b2bf38a7-0724-4a51-9225-e993ae245892": {
+      "ProjectGuid": "b2bf38a7-0724-4a51-9225-e993ae245892",
+      "DisplayName": "DTO",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "927869a5-a965-464b-9486-815686c22c05": {
+      "ProjectGuid": "927869a5-a965-464b-9486-815686c22c05",
+      "DisplayName": "DAL",
+      "ColorIndex": 6
+    },
+    "0665dda9-384e-4c38-9f39-5caa64420ad6": {
+      "ProjectGuid": "0665dda9-384e-4c38-9f39-5caa64420ad6",
+      "DisplayName": "BLL",
+      "ColorIndex": 7
+    },
+    "dbef95aa-6acb-4ea1-8410-a754257ad7d5": {
+      "ProjectGuid": "dbef95aa-6acb-4ea1-8410-a754257ad7d5",
+      "DisplayName": "DAL",
+      "ColorIndex": 8
+    },
+    "07fafef5-56b5-4c20-bb4d-360d5d52e184": {
+      "ProjectGuid": "07fafef5-56b5-4c20-bb4d-360d5d52e184",
+      "DisplayName": "DTO",
+      "ColorIndex": 9
+    },
+    "529bc7c0-c834-45e4-b5bd-cba6ee02bc55": {
+      "ProjectGuid": "529bc7c0-c834-45e4-b5bd-cba6ee02bc55",
+      "DisplayName": "DTO_QLBS",
+      "ColorIndex": 10
+    },
+    "9c3e432a-e953-4c33-92a1-5ff7845bc961": {
+      "ProjectGuid": "9c3e432a-e953-4c33-92a1-5ff7845bc961",
+      "DisplayName": "DAL_QLBS",
+      "ColorIndex": 11
+    },
+    "319d8e4b-eafc-437c-8ee0-fa8c0a13ae66": {
+      "ProjectGuid": "319d8e4b-eafc-437c-8ee0-fa8c0a13ae66",
+      "DisplayName": "BLL_QLBS",
+      "ColorIndex": 12
+    },
+    "b19a5e24-953a-4964-ad27-a143dfa3f17e": {
+      "ProjectGuid": "b19a5e24-953a-4964-ad27-a143dfa3f17e",
+      "DisplayName": "ENUM",
+      "ColorIndex": 13
+    },
+    "2aadd2b3-b34e-4c17-86dc-1e292dda7086": {
+      "ProjectGuid": "2aadd2b3-b34e-4c17-86dc-1e292dda7086",
+      "DisplayName": "HelpReport",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

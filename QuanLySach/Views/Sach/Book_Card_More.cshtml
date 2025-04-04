@@ -1,0 +1,16 @@
+﻿@model QuanLySach.Models.book
+
+<div class="col-md-4 mb-4">
+    <div class="card h-100">
+        <img src="@Url.Action("GetImage", "Sach", new { id = Model.id })" class="card-img-top" />
+        <div class="card-body">
+            <h5 class="card-title">@Model.name</h5>
+            <p class="card-text"><strong>Giá:</strong> @string.Format("{0:N0}", Model.price) VNĐ</p>
+            @if (Model.quantity != 0)
+            {
+                <a href="@Url.Action("ThemGioHang", "GioHang", new { @ms = Model.id })" class="btn btn-dark btn-sm">Mua Ngay</a>
+            }
+            <a href="@Url.Action("XemChiTiet", "Sach", new { ms = Model.id })" class="btn btn-outline-dark btn-sm">Chi Tiết</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<QuanLySach.Models.book>
+
+<style>
+    #button:hover{
+        background-color: white;
+        color: black;
+    }
+    #button {
+        background-color: black;
+        color: white;
+    }
+</style>
+<div class="home-section" style="margin-top: 120px; background-color: #fff; padding: 0px">
+
+    <!-- Book Slider Container -->
+    <div class="slider-container">
+        <button class="slider-btn prev-btn" style="border-radius: 3px"><i class="bi bi-chevron-left"></i></button>
+        <!-- Book Slider -->
+        <div class="slider">
+            @foreach (var item in Model)
+            {
+                <div class="slider-item" style="height: 500px">
+                    <div class="book-info">
+                        <h2 class="book-title">@item.name.ToUpper()</h2>
+                        <p class="book-description">
+                            @item.description.Substring(0, item.description.Length/3) ... <!-- Display only first 50 characters -->
+                        </p><br />
+                        <a href="@Url.Action("XemChiTiet", "Sach", new { ms = item.id })" class="btn" id="button">Đọc Sách</a>
+                    </div>
+                    <img src="@Url.Action("GetImage", "Sach", new { id = item.id })" alt="Book Cover" class="book-cover" />
+                </div>
+             }
+        </div>
+
+        <button class="slider-btn next-btn"  style="border-radius: 3px"><i class="bi bi-chevron-right"></i></button>
+    </div>
+</div>
+<script>
+    let currentIndex = 0;
+const items = document.querySelectorAll('.slider-item');
+
+// Xử lý sự kiện cho nút Previous
+document.querySelector('.prev-btn').addEventListener('click', () => {
+    items[currentIndex].classList.remove('active');
+    currentIndex = (currentIndex > 0) ? currentIndex - 1 : items.length - 1;
+    items[currentIndex].classList.add('active');
+    updateSliderPosition();
+});
+
+// Xử lý sự kiện cho nút Next
+document.querySelector('.next-btn').addEventListener('click', nextSlide);
+
+// Hàm xử lý chuyển sang slide tiếp theo
+function nextSlide() {
+    items[currentIndex].classList.remove('active');
+    currentIndex = (currentIndex < items.length - 1) ? currentIndex + 1 : 0;
+    items[currentIndex].classList.add('active');
+    updateSliderPosition();
+}
+
+// Cập nhật vị trí của slider
+function updateSliderPosition() {
+    document.querySelector('.slider').style.transform = `translateX(-${currentIndex * 100}%)`;
+}
+
+// Khởi tạo slide đầu tiên
+items[currentIndex].classList.add('active');
+
+// Tự động bấm nút Next mỗi 2 giây
+setInterval(() => {
+    nextSlide();
+}, 9000);
+
+</script>

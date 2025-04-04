@@ -1,0 +1,6 @@
+﻿<select id="provinces" name="provinces">
+    @foreach (var province in Model)
+    {
+        <option value="@province.ProvinceID">@province.ProvinceName</option>
+    }
+</select>

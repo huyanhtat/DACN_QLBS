@@ -1,0 +1,460 @@
+D:\chương trình C#\QuanLySach\bin\QuanLySach.dll.config
+D:\chương trình C#\QuanLySach\bin\QuanLySach.dll
+D:\chương trình C#\QuanLySach\bin\QuanLySach.pdb
+D:\chương trình C#\QuanLySach\bin\roslyn\csc.exe
+D:\chương trình C#\QuanLySach\bin\roslyn\csc.exe.config
+D:\chương trình C#\QuanLySach\bin\roslyn\csc.rsp
+D:\chương trình C#\QuanLySach\bin\roslyn\csi.exe
+D:\chương trình C#\QuanLySach\bin\roslyn\csi.exe.config
+D:\chương trình C#\QuanLySach\bin\roslyn\csi.rsp
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\chương trình C#\QuanLySach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.AppContext.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Console.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Globalization.Calendars.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.IO.Compression.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.IO.FileSystem.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Net.Http.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Net.Sockets.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.ValueTuple.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Xml.XPath.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\chương trình C#\QuanLySach\bin\roslyn\vbc.exe
+D:\chương trình C#\QuanLySach\bin\roslyn\vbc.exe.config
+D:\chương trình C#\QuanLySach\bin\roslyn\vbc.rsp
+D:\chương trình C#\QuanLySach\bin\roslyn\VBCSCompiler.exe
+D:\chương trình C#\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+D:\chương trình C#\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\chương trình C#\QuanLySach\bin\Microsoft.Web.Infrastructure.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Helpers.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Mvc.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Razor.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.Deployment.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.Razor.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Razor.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.Deployment.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Webpages.Razor.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Helpers.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Mvc.xml
+D:\chương trình C#\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\chương trình C#\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\chương trình C#\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\chương trình C#\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+D:\chương trình C#\QuanLySach\obj\Debug\QuanLySach.dll
+D:\chương trình C#\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\chương trình C#\QuanLySach\bin\Newtonsoft.Json.dll
+D:\chương trình C#\QuanLySach\bin\System.Net.Http.Formatting.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Http.dll
+D:\chương trình C#\QuanLySach\bin\System.Web.Http.WebHost.dll
+D:\chương trình C#\QuanLySach\bin\Newtonsoft.Json.xml
+D:\chương trình C#\QuanLySach\bin\System.Net.Http.Formatting.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Http.xml
+D:\chương trình C#\QuanLySach\bin\System.Web.Http.WebHost.xml
+D:\chương trình C#\QuanLySach\bin\PagedList.dll
+D:\chương trình C#\QuanLySach\bin\PagedList.Mvc.dll
+D:\chương trình C#\QuanLySach\bin\PagedList.xml
+D:\chương trình C#\QuanLySach\bin\PagedList.Mvc.xml
+D:\C# program\QuanLySach\bin\QuanLySach.dll.config
+D:\C# program\QuanLySach\bin\QuanLySach.dll
+D:\C# program\QuanLySach\bin\QuanLySach.pdb
+D:\C# program\QuanLySach\bin\roslyn\csc.exe
+D:\C# program\QuanLySach\bin\roslyn\csc.exe.config
+D:\C# program\QuanLySach\bin\roslyn\csc.rsp
+D:\C# program\QuanLySach\bin\roslyn\csi.exe
+D:\C# program\QuanLySach\bin\roslyn\csi.exe.config
+D:\C# program\QuanLySach\bin\roslyn\csi.rsp
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# program\QuanLySach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\C# program\QuanLySach\bin\roslyn\System.AppContext.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Console.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Globalization.Calendars.dll
+D:\C# program\QuanLySach\bin\roslyn\System.IO.Compression.dll
+D:\C# program\QuanLySach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\C# program\QuanLySach\bin\roslyn\System.IO.FileSystem.dll
+D:\C# program\QuanLySach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Net.Http.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Net.Sockets.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\C# program\QuanLySach\bin\roslyn\System.ValueTuple.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Xml.XPath.dll
+D:\C# program\QuanLySach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C# program\QuanLySach\bin\roslyn\vbc.exe
+D:\C# program\QuanLySach\bin\roslyn\vbc.exe.config
+D:\C# program\QuanLySach\bin\roslyn\vbc.rsp
+D:\C# program\QuanLySach\bin\roslyn\VBCSCompiler.exe
+D:\C# program\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+D:\C# program\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# program\QuanLySach\bin\Microsoft.Web.Infrastructure.dll
+D:\C# program\QuanLySach\bin\Newtonsoft.Json.dll
+D:\C# program\QuanLySach\bin\PagedList.dll
+D:\C# program\QuanLySach\bin\PagedList.Mvc.dll
+D:\C# program\QuanLySach\bin\System.Net.Http.Formatting.dll
+D:\C# program\QuanLySach\bin\System.Web.Helpers.dll
+D:\C# program\QuanLySach\bin\System.Web.Http.dll
+D:\C# program\QuanLySach\bin\System.Web.Http.WebHost.dll
+D:\C# program\QuanLySach\bin\System.Web.Mvc.dll
+D:\C# program\QuanLySach\bin\System.Web.Razor.dll
+D:\C# program\QuanLySach\bin\System.Web.Webpages.Deployment.dll
+D:\C# program\QuanLySach\bin\System.Web.Webpages.dll
+D:\C# program\QuanLySach\bin\System.Web.Webpages.Razor.dll
+D:\C# program\QuanLySach\bin\Newtonsoft.Json.xml
+D:\C# program\QuanLySach\bin\PagedList.xml
+D:\C# program\QuanLySach\bin\PagedList.Mvc.xml
+D:\C# program\QuanLySach\bin\System.Net.Http.Formatting.xml
+D:\C# program\QuanLySach\bin\System.Web.Http.xml
+D:\C# program\QuanLySach\bin\System.Web.Http.WebHost.xml
+D:\C# program\QuanLySach\bin\System.Web.Razor.xml
+D:\C# program\QuanLySach\bin\System.Web.Webpages.xml
+D:\C# program\QuanLySach\bin\System.Web.Webpages.Deployment.xml
+D:\C# program\QuanLySach\bin\System.Web.Webpages.Razor.xml
+D:\C# program\QuanLySach\bin\System.Web.Helpers.xml
+D:\C# program\QuanLySach\bin\System.Web.Mvc.xml
+D:\C# program\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.dll
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\C# program\QuanLySach\obj\Debug\Interop.COMSVCSLib.dll
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.csproj.ResolveComReference.cache
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authorization.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Routing.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\C# program\QuanLySach\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.DependencyModel.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.ObjectPool.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Options.dll
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Primitives.dll
+D:\C# program\QuanLySach\bin\Microsoft.Net.Http.Headers.dll
+D:\C# program\QuanLySach\bin\System.Buffers.dll
+D:\C# program\QuanLySach\bin\System.ComponentModel.Annotations.dll
+D:\C# program\QuanLySach\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C# program\QuanLySach\bin\System.Memory.dll
+D:\C# program\QuanLySach\bin\System.Numerics.Vectors.dll
+D:\C# program\QuanLySach\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# program\QuanLySach\bin\System.Text.Encodings.Web.dll
+D:\C# program\QuanLySach\bin\System.Threading.Tasks.Extensions.dll
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authorization.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Routing.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.ObjectPool.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Options.xml
+D:\C# program\QuanLySach\bin\Microsoft.Extensions.Primitives.xml
+D:\C# program\QuanLySach\bin\Microsoft.Net.Http.Headers.xml
+D:\C# program\QuanLySach\bin\System.Buffers.xml
+D:\C# program\QuanLySach\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C# program\QuanLySach\bin\System.Memory.xml
+D:\C# program\QuanLySach\bin\System.Numerics.Vectors.xml
+D:\C# program\QuanLySach\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# program\QuanLySach\bin\System.Text.Encodings.Web.xml
+D:\C# program\QuanLySach\bin\System.Threading.Tasks.Extensions.xml
+D:\C# program\QuanLySach\bin\Microsoft.Bcl.Numerics.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.Core.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.CpuMath.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.Data.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.DataView.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.KMeansClustering.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.PCA.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.StandardTrainers.dll
+D:\C# program\QuanLySach\bin\Microsoft.ML.Transforms.dll
+D:\C# program\QuanLySach\bin\System.CodeDom.dll
+D:\C# program\QuanLySach\bin\System.Collections.Immutable.dll
+D:\C# program\QuanLySach\bin\System.Numerics.Tensors.dll
+D:\C# program\QuanLySach\bin\System.Threading.Channels.dll
+D:\C# program\QuanLySach\bin\Microsoft.Bcl.Numerics.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.Core.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.CpuMath.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.Data.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.DataView.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.KMeansClustering.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.PCA.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.StandardTrainers.xml
+D:\C# program\QuanLySach\bin\Microsoft.ML.Transforms.xml
+D:\C# program\QuanLySach\bin\System.CodeDom.xml
+D:\C# program\QuanLySach\bin\System.Collections.Immutable.xml
+D:\C# program\QuanLySach\bin\System.Numerics.Tensors.xml
+D:\C# program\QuanLySach\bin\System.Threading.Channels.xml
+D:\C# program\QuanLySach\bin\log4net.dll
+D:\C# program\QuanLySach\bin\log4net.pdb
+D:\C# program\QuanLySach\bin\log4net.xml
+D:\C# program\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\QuanLySach.dll.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\QuanLySach.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\QuanLySach.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csc.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csc.exe.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csc.rsp
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csi.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csi.exe.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\csi.rsp
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.AppContext.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Console.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.IO.Compression.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Net.Http.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.ValueTuple.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\vbc.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\vbc.exe.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\vbc.rsp
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\log4net.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Bcl.Numerics.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Options.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Core.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.CpuMath.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Data.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.DataView.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.KMeansClustering.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.PCA.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.StandardTrainers.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Transforms.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Newtonsoft.Json.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\PagedList.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\PagedList.Mvc.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Buffers.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.CodeDom.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Collections.Immutable.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.ComponentModel.Annotations.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Memory.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Net.Http.Formatting.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Numerics.Tensors.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Numerics.Vectors.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Text.Encodings.Web.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Threading.Channels.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Helpers.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Http.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Http.WebHost.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Mvc.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Razor.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.Razor.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\log4net.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\log4net.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Bcl.Numerics.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Options.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Core.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.CpuMath.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Data.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.DataView.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.KMeansClustering.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.PCA.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.StandardTrainers.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.ML.Transforms.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Newtonsoft.Json.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\PagedList.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\PagedList.Mvc.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Buffers.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.CodeDom.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Collections.Immutable.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Memory.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Net.Http.Formatting.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Numerics.Tensors.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Numerics.Vectors.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Text.Encodings.Web.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Threading.Channels.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Http.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Http.WebHost.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Razor.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Webpages.Razor.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Helpers.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\System.Web.Mvc.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.csproj.ResolveComReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.csproj.Up2Date
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QuanLySach\obj\Debug\QuanLySach.pdb

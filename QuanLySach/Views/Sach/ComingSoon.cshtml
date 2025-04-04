@@ -1,0 +1,12 @@
+﻿@model QuanLySach.Models.ChiTietSach
+
+<div class="col-md-3 mb-4">
+    <div class="card h-40">
+        <img src="@Url.Action("GetImage", "Sach", new { id = Model.Id })" class="card-img-top" />
+        <div class="card-body">
+            <span class="product-category" align="left">Thể loại: @Model.chuDe</span><br />
+            <span class="title-product" style="color: var(--ast-global-color-2)"> @Model.tenSach</span><br />
+            <p class="card-text" align="center" style="color: red">SẮP RA MẮT</p>
+        </div>
+    </div>
+</div>

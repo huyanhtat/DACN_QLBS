@@ -1,0 +1,6 @@
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\Helpers.Properties.Resources.resources
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\Helpers.csproj.GenerateResource.cache
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\RdlCompile.cache
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\RdlCompile.compiled
+C:\Tools\QLBanSach\QLBanSach\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<QuanLySach.Models.book>
+
+@{
+    ViewBag.Title = "Sách Yêu Thích";
+    Layout = "~/Views/Shared/LayoutKH.cshtml";
+}
+
+
+<h1 class="fw-bold mb-4" style="font-family: EB Garamond; font-size: 116px; transform: translate(76px); margin-top: 100px; text-align: center">SÁCH YÊU THÍCH</h1>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        <div class="col-md-3 mb-4">
+            <div class="card h-40">
+                <img src="@Url.Action("GetImage", "Sach", new { id = item.id })" class="card-img-top" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.name</h5>
+                    <p class="card-text"><strong>Giá:</strong> @string.Format("{0:N0}", item.price) VNĐ</p>
+                    <a href="@Url.Action("ThemGioHang", "GioHang", new { @ms = item.id })" class="btn btn-dark btn-sm">Mua Ngay</a>
+                    <a href="@Url.Action("XemChiTiet", "Sach", new { ms = item.id })" class="btn btn-outline-dark btn-sm">Chi Tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>Bạn chưa có sách nào trong wishlist.</p>
+}

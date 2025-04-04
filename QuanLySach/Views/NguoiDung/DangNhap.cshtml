@@ -1,0 +1,157 @@
+﻿@model QuanLySach.Models.KhachHang
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <link rel="icon" href="/assets/img/bookstore.ico" type="image/x-icon" />
+
+    <title>Bookstore - Đăng Ký / Đăng Nhập</title>
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+
+    <style>
+        body {
+            background-image: url("/assets/img/book-background.jpg");
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+        }
+
+        .form-container {
+            background: rgba(255, 255, 255, 0.9);
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+            .form-container h1 {
+                font-size: 2rem;
+                margin-bottom: 1rem;
+            }
+
+        .social-container a {
+            margin: 0 10px;
+            color: #333;
+        }
+
+        .form-control {
+            margin-bottom: 1rem;
+        }
+
+        .btn-primary {
+            width: 100%;
+            padding: 0.75rem;
+            font-size: 1rem;
+        }
+
+        .switch-form-link {
+            display: block;
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <!-- Sign Up Form -->
+    <div class="form-container" id="signUpForm" style="display: none;">
+        <h1>Đăng Ký</h1>
+        <form id="registerForm" method="post" action="@Url.Action("DangKy", "NguoiDung")">
+            @Html.AntiForgeryToken()
+            @Html.TextBox("HoTenKH", "", new { @class = "form-control", @placeholder = "Tài Khoản" })
+            @Html.Password("MatKhau", "", new { @class = "form-control", @placeholder = "Mật Khẩu" })
+            @Html.Password("ReMatKhau", "", new { @class = "form-control", @placeholder = "Nhập lại mật khẩu" })
+            <input type="submit" value="Đăng ký" class="btn btn-primary" />
+            <div class="text-danger" id="registerError"></div>
+            <a href="#" class="switch-form-link" onclick="toggleForm('signInForm')">Đã có tài khoản? Đăng nhập</a>
+        </form>
+    </div>
+
+    <!-- Sign In Form -->
+    <div class="form-container" id="signInForm">
+        <h1>Đăng Nhập</h1>
+        @*<div class="social-container">
+            <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="social"><i class="fab fa-google-plus-g"></i></a>
+            <a href="#" class="social"><i class="fab fa-linkedin-in"></i></a>
+        </div>*@
+        <form id="loginForm" method="post" action="@Url.Action("DangNhapDN", "NguoiDung")">
+            @Html.AntiForgeryToken()
+            @Html.TextBox("username", "", new { @class = "form-control", @placeholder = "Tài Khoản" })
+            @Html.Password("password", "", new { @class = "form-control", @placeholder = "Mật Khẩu" })
+            <input type="submit" value="Đăng Nhập" class="btn btn-primary" />
+            <div class="text-danger" id="loginError"></div>
+            <a href="#" class="switch-form-link" onclick="toggleForm('signUpForm')">Chưa có tài khoản? Đăng ký</a>
+        </form>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Đăng ký
+            $("#registerForm").submit(function (event) {
+                event.preventDefault();
+                $.ajax({
+                    type: "POST",
+                    url: $(this).attr("action"),
+                    data: $(this).serialize(),
+                    success: function (response) {
+                        if (response.success) {
+                            $("#registerError").text(response.message).css("color", "green");
+                            toggleForm('signInForm');
+                        } else {
+                            $("#registerError").text(response.message);
+                        }
+                    },
+                    error: function () {
+                        $("#registerError").text("Đã xảy ra lỗi. Vui lòng thử lại.");
+                    }
+                });
+            });
+
+            // Đăng nhập
+            $("#loginForm").submit(function (event) {
+                event.preventDefault();
+                $.ajax({
+                    type: "POST",
+                    url: $(this).attr("action"),
+                    data: $(this).serialize(),
+                    success: function (response) {
+                        if (response.success) {
+                            window.location.href = response.redirectUrl;
+                        } else {
+                            $("#loginError").text(response.message);
+                        }
+                    },
+                    error: function () {
+                        $("#loginError").text("Đã xảy ra lỗi. Vui lòng thử lại.");
+                    }
+                });
+            });
+        });
+
+        function toggleForm(formId) {
+            $("#signUpForm, #signInForm").hide();
+            $("#" + formId).show();
+        }
+
+        window.onload = function () {
+            toggleForm('signInForm'); // Mặc định hiển thị form đăng nhập
+        };
+    </script>
+
+
+</body>
+</html>

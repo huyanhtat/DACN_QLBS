@@ -1,0 +1,54 @@
+﻿@model IEnumerable<QuanLySach.Models.OrderViewModel>
+@{
+    ViewBag.Title = "Xem Đơn Hàng";
+    Layout = "~/Views/Shared/LayoutKH.cshtml";
+}
+<div class="container" style="margin-top: 100px">
+    <h2 class="fw-bold mb-4 text-center" style="font-family: EB Garamond; font-size: 116px; transform: translate(76px); margin-top: 100px" align="center">
+        ĐƠN HÀNG
+    </h2>
+    @foreach (var order in Model)
+    {
+        <div class="card mb-4">
+            <div class="card-header">
+                <p>Ngày Đặt: @order.OrderDate.ToString("dd/MM/yyyy")</p>
+                <p>Trạng Thái: @order.Status</p>
+                <p>Tổng Tiền: @String.Format("{0:N0}", order.TotalPrice) VNĐ</p>
+
+                <p style="position: absolute; top: 7px; /* float: right; */ right: 20px;"> @order.PaymentMethod</p>
+                <p style="position: absolute; top: 42px; /* float: right; */ right: 20px; ">@order.Description</p>
+                <p style="position: absolute; top: 82px; /* float: right; */ right: 20px; ">@order.Receive</p>
+                <p style="float: right"><a href="@order.TrakingShipping" target="_blank" style="color: black">Xem đơn hàng</a></p>
+            </div>
+            <div class="card-body">
+                <h6>Chi Tiết Sản Phẩm:</h6>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Tên Sách</th>
+                            <th>Số Lượng</th>
+                            <th>Đơn Giá</th>
+                            <th>VAT</th>
+                            <th>Thành Tiền</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var detail in order.OrderDetails)
+                        {
+                            <tr>
+                                <td>@detail.BookName</td>
+                                <td>@detail.Quantity</td>
+                                <td>@String.Format("{0:N0}", detail.UnitPrice) VNĐ</td>
+                                <td>@String.Format("{0:N0}", detail.VAT)</td>
+                                <td>@String.Format("{0:N0}", detail.TotalPrice) VNĐ</td>
+                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    }
+    
+</div>

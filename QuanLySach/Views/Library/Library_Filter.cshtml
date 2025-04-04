@@ -1,0 +1,36 @@
+﻿@model IEnumerable<QuanLySach.Models.book>
+
+<div class="col-lg-12 col-md-12">
+    <!-- Categories Filter Section -->
+    <div class="border-bottom mb-12 pb-12">
+        <h5 class="font-weight-semi-bold mb-12" style="text-align: center">Sách Mới Nhất</h5>
+        <div class="row">
+            <div class="container-fluid">
+                <div class="row px-xl-12 pb-12" style="display: flex; flex-direction: column">
+                    @{
+                        foreach (var item in Model)
+                        {
+                                        <div class="col-md-12 mb-12">
+                                            <div class="card h-100">
+                                                <img src="@Url.Action("GetImage", "Sach", new { id = item.id })" class="card-img-top" />
+                                                <div class="card-body">
+                                                    <h5 class="card-title">@item.name</h5>
+                                                    <p class="card-text"><strong>Giá:</strong> @string.Format("{0:N0}", item.price) VNĐ</p>
+                                                    @if (item.quantity != 0)
+                                                    {
+                                                        <a href="@Url.Action("ThemGioHang", "GioHang", new { @ms = item.id })" class="btn btn-dark btn-sm">Mua Ngay</a>
+                                                    }
+                                                    <a href="@Url.Action("XemChiTiet", "Sach", new { ms = item.id })" class="btn btn-outline-dark btn-sm">Chi Tiết</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                        }
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+

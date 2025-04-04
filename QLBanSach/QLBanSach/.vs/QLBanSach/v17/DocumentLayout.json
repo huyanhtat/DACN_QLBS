@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|c:\\users\\anh huy\\downloads\\da_qlbs\\source\\qlbansach\\qlbansach\\qlbansach\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dal_qlbs\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|solutionrelative:dal_qlbs\\logindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BLL_QLBS||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dto_qlbs\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|solutionrelative:dto_qlbs\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dto_qlbs\\bookmanagement.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|solutionrelative:dto_qlbs\\bookmanagement.dbml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dto_qlbs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|solutionrelative:dto_qlbs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dto_qlbs\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|solutionrelative:dto_qlbs\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dto_qlbs\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529BC7C0-C834-45E4-B5BD-CBA6EE02BC55}|DTO_QLBS\\DTO_QLBS.csproj|solutionrelative:dto_qlbs\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dal_qlbs\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|solutionrelative:dal_qlbs\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dal_qlbs\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|solutionrelative:dal_qlbs\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319D8E4B-EAFC-437C-8EE0-FA8C0A13AE66}|BLL_QLBS\\BLL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\bll_qlbs\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319D8E4B-EAFC-437C-8EE0-FA8C0A13AE66}|BLL_QLBS\\BLL_QLBS.csproj|solutionrelative:bll_qlbs\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dal_qlbs\\thanhtoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|solutionrelative:dal_qlbs\\thanhtoandal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\dal_qlbs\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3E432A-E953-4C33-92A1-5FF7845BC961}|DAL_QLBS\\DAL_QLBS.csproj|solutionrelative:dal_qlbs\\billdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\qlbansach\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AAB681DF-2550-49F0-AF40-2D7706035520}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Login.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Login.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Login.cs [Design]",
+              "RelativeToolTip": "QLBanSach\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:06:33.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DTO_QLBS\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "DTO_QLBS\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:33:43.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\LoginDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLBS\\LoginDAL.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\LoginDAL.cs",
+              "RelativeToolTip": "DAL_QLBS\\LoginDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:25:44.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Home.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Home.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Home.cs [Design]",
+              "RelativeToolTip": "QLBanSach\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:07:54.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Cart.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Cart.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Cart.cs",
+              "RelativeToolTip": "QLBanSach\\Cart.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAcwNkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Login.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Login.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Login.cs",
+              "RelativeToolTip": "QLBanSach\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:06:42.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "DTO_QLBS\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\Settings.settings",
+              "RelativeToolTip": "DTO_QLBS\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-03-02T06:31:14.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookManagement.dbml",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\BookManagement.dbml",
+              "RelativeDocumentMoniker": "DTO_QLBS\\BookManagement.dbml",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\BookManagement.dbml",
+              "RelativeToolTip": "DTO_QLBS\\BookManagement.dbml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T06:28:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Cart.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Cart.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Cart.cs [Design]",
+              "RelativeToolTip": "QLBanSach\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:26.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLL_QLBS",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\BLL_QLBS\\BLL_QLBS.csproj",
+              "RelativeDocumentMoniker": "BLL_QLBS\\BLL_QLBS.csproj",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\BLL_QLBS\\BLL_QLBS.csproj",
+              "RelativeToolTip": "BLL_QLBS\\BLL_QLBS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T07:08:20.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Discount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Discount.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Discount.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Discount.cs [Design]",
+              "RelativeToolTip": "QLBanSach\\Discount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:08:03.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\packages.config",
+              "RelativeDocumentMoniker": "DAL_QLBS\\packages.config",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\packages.config",
+              "RelativeToolTip": "DAL_QLBS\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T06:28:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Program.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Program.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Program.cs",
+              "RelativeToolTip": "QLBanSach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:26:57.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\App.config",
+              "RelativeDocumentMoniker": "QLBanSach\\App.config",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\App.config",
+              "RelativeToolTip": "QLBanSach\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T06:26:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "connect.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\connect.cs",
+              "RelativeDocumentMoniker": "DTO_QLBS\\connect.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\connect.cs",
+              "RelativeToolTip": "DTO_QLBS\\connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:26:31.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "DTO_QLBS\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DTO_QLBS\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "DTO_QLBS\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:33:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\BLL_QLBS\\BillBLL.cs",
+              "RelativeDocumentMoniker": "BLL_QLBS\\BillBLL.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\BLL_QLBS\\BillBLL.cs",
+              "RelativeToolTip": "BLL_QLBS\\BillBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BillDetailDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\BillDetailDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLBS\\BillDetailDAL.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\BillDetailDAL.cs",
+              "RelativeToolTip": "DAL_QLBS\\BillDetailDAL.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwBYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\BillDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLBS\\BillDAL.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\BillDAL.cs",
+              "RelativeToolTip": "DAL_QLBS\\BillDAL.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:25.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Bill.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Bill.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Bill.cs",
+              "RelativeToolTip": "QLBanSach\\Bill.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAwwP4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-02T06:23:26.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Bill.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Bill.cs",
+              "ToolTip": "D:\\UDPMTM\\QLBanSach\\QLBanSach\\QLBanSach\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-02T06:23:26.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThanhToanDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\ThanhToanDAL.cs",
+              "RelativeDocumentMoniker": "DAL_QLBS\\ThanhToanDAL.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\DAL_QLBS\\ThanhToanDAL.cs",
+              "RelativeToolTip": "DAL_QLBS\\ThanhToanDAL.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAUwEIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:23:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Payment.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Payment.cs",
+              "ToolTip": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Payment.cs",
+              "RelativeToolTip": "QLBanSach\\Payment.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAwK8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-02T06:23:26.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Anh Huy\\Downloads\\DA_QLBS\\SOURCE\\QLBanSach\\QLBanSach\\QLBanSach\\Payment.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Payment.cs",
+              "ToolTip": "D:\\UDPMTM\\QLBanSach\\QLBanSach\\QLBanSach\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-02T06:23:26.099Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

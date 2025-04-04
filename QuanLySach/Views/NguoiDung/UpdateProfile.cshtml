@@ -1,0 +1,57 @@
+﻿@model QuanLySach.Models.user
+
+@{
+    ViewBag.Title = "Cập Nhật Thông Tin";
+    Layout = "~/Views/Shared/LayoutKH.cshtml";
+}
+
+<h2 class="fw-bold mb-4 text-center" style="font-family: EB Garamond; font-size: 116px; transform: translate(76px); margin-top: 100px" align="center">
+    CẬP NHẬT THÔNG TIN
+</h2>
+
+
+@using (Html.BeginForm("UpdateProfile", "NguoiDung", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="full_name">Họ và tên</label>
+        @Html.TextBoxFor(m => m.full_name, new { @class = "form-control", placeholder = "Họ và tên" })
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Số điện thoại</label>
+        @Html.TextBoxFor(m => m.phone, new { @class = "form-control", placeholder = "Số điện thoại" })
+    </div>
+
+    <div class="form-group">
+        <label for="address">Địa chỉ</label>
+        @Html.TextBoxFor(m => m.address, new { @class = "form-control", placeholder = "Địa chỉ" })
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        @Html.TextBoxFor(m => m.email, new { @class = "form-control", placeholder = "Email" })
+    </div>
+
+    <div class="form-group">
+        <label for="gender">Giới tính</label>
+        @Html.DropDownListFor(m => m.gender, new List<SelectListItem>
+        {
+            new SelectListItem { Text = "Chọn giới tính", Value = "", Selected = (Model.gender == null) },
+            new SelectListItem { Text = "Nam", Value = "Nam", Selected = (Model.gender == "Nam") },
+            new SelectListItem { Text = "Nữ", Value = "Nữ", Selected = (Model.gender == "Nữ") }
+        }, new { @class = "form-control" })
+    </div>
+
+    <div class="form-group">
+        <label for="date_of_birth">Ngày sinh</label>
+        @Html.TextBoxFor(m => m.date_of_birth, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+    </div>
+
+    <button type="submit" class="btn btn-primary" style="margin-bottom: 50px;" align="center">Cập nhật</button>
+}
+
+@if (ViewBag.Message != null)
+{
+    <p>@ViewBag.Message</p>
+}

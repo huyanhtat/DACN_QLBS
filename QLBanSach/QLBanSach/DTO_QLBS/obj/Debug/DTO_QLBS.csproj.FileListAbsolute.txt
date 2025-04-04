@@ -1,0 +1,109 @@
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+D:\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.xml
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.xml
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.xml
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.xml
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CopyComplete
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Tools\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.AssemblyReference.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CopyComplete
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.xml
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.xml
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.xml
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.xml
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.xml
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CopyComplete
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\DTO_QLBS.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\bin\Debug\zxing.presentation.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.CoreCompileInputs.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.csproj.Up2Date
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\DTO_QLBS\obj\Debug\DTO_QLBS.pdb

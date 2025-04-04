@@ -1,0 +1,547 @@
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Book.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Customer.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Employee.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sales.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sell.resources
+D:\Workspace\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Order.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.SuggestedBindingRedirects.cache
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Order.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sales.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Book.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Customer.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Employee.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sell.resources
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+D:\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.SuggestedBindingRedirects.cache
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Order.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sales.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Book.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Customer.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Employee.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sell.resources
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+D:\UDPMTM\QLBanSach_project-Nghia\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Order.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sales.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Book.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Customer.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Employee.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sell.resources
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Category.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Author.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Category.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Publisher.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Author.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Category.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Publisher.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Book.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Customer.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Search_Employee.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Sell.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.PhanQuyen.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Payment.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Cart.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Bill.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.xml
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\EnvDTE.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\stdole.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.MSXML.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Discount.resources
+C:\Tools\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Menu.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\EnvDTE.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\stdole.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Discount.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Bill.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Menu.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Payment.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.PhanQuyen.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Cart.resources
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Statistical.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.SuggestedBindingRedirects.cache
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Author.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Category.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Discount.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Bill.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Menu.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Payment.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.PhanQuyen.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Publisher.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Cart.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Statistical.resources
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\EnvDTE.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\stdole.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.xml
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UDPMTM\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CopyComplete
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\QLBanSach.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\EnvDTE.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\stdole.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DTO_QLBS.dll.config
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ENUM.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\BLL_QLBS.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\System.ValueTuple.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zxing.presentation.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\DAL_QLBS.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Author.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Book.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Category.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Customer.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Discount.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Employee.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Home.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Login.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Bill.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Menu.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Payment.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.PhanQuyen.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Properties.Resources.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Publisher.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Cart.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.Statistical.resources
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.GenerateResource.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.CoreCompileInputs.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.csproj.Up2Date
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.exe
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\QLBanSach\obj\Debug\QLBanSach.pdb

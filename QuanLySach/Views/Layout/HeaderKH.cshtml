@@ -1,0 +1,142 @@
+﻿<div class="container header" style=" font-family: Heebo; font-weight: bold; font-size: 16px;">
+    <nav class="navbar navbar-light navbar-expand-md fixed-top text-center navbar-shrink" id="mainNav">
+        <div class="container" style="padding: 0px">
+            <a class="navbar-brand d-flex align-items-center" href="/">
+                <span class="bs-icon-sm bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon"
+                      style="background: rgba(255, 255, 255, 0)">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-book bg-white" style="color: rgb(0, 0, 0)">
+                        <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"></path>
+                    </svg>
+                </span>
+                <span style="font-family: Heebo; font-size: 30px">BOOKSTORE</span>
+            </a>
+            <button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1">
+                <span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navcol-1">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("IndexKH", "Home")" style="font-family: Heebo; font-weight: bold">TRANG CHỦ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("TatCaSach", "Sach")" style="font-family: Heebo">SÁCH</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("ComingSoon", "Home")" style="font-family: Heebo">SẮP RA MẮT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Wishlist", "Home")" style="font-family: Heebo">YÊU THÍCH</a>
+                    </li>
+                    @*<li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Contact", "Home")" style="font-family: Heebo">CONTACT</a>
+                        </li>*@
+                </ul>
+                @using (Html.BeginForm("TimKiemSach", "Sach", FormMethod.Get))
+                {
+                    <div class="search-container" style="position: relative;">
+                        <input class="form-control-sm shake animated"
+                               type="search"
+                               placeholder="Search"
+                               autofocus=""
+                               style="margin: 4px; padding: 7.4px 16px; width: 182px"
+                               name="searchString"
+                               id="searchBox" />
+                        <ul id="suggestionList" class="list-group" style="position: absolute; top: 40px; width: 400px; z-index: 1000; display: none;">
+                            <!-- Gợi ý sẽ được thêm ở đây -->
+                        </ul>
+                    </div>
+                }
+
+                <div class="dropdown">
+                    <a class="btn btn-primary dropdown-toggle"
+                       role="button"
+                       id="userMenu"
+                       data-bs-toggle="dropdown"
+                       aria-expanded="false"
+                       style="color: rgb(14, 12, 12); background: rgb(255, 255, 255); border-style: none;">
+                        <svg xmlns="http://www.w3.org/2000/svg"
+                             width="1em"
+                             height="1em"
+                             fill="currentColor"
+                             viewBox="0 0 16 16"
+                             class="bi bi-person-fill text-center"
+                             style="font-size: 30; width: 27px; height: 28px;">
+                            <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path>
+                        </svg>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userMenu">
+                        <li><a class="dropdown-item" href="@Url.Action("HistoryPurchase", "NguoiDung")">Lịch sử mua hàng</a></li>
+                        <li><a class="dropdown-item" href="@Url.Action("UpdateProfile", "NguoiDung")">Cập nhật thông tin</a></li>
+                        <li><a class="dropdown-item" href="@Url.Action("ChangePassword", "NguoiDung")">Đổi mật khẩu</a></li>
+                        <li><a class="dropdown-item" href="@Url.Action("XemDonHang", "NguoiDung")">Xem đơn hàng</a></li>
+                        <li><a class="dropdown-item" href="@Url.Action("Logout", "NguoiDung")">Đăng xuất</a></li>
+                    </ul>
+                </div>
+                <a class="btn border-white"
+                   role="button"
+                   href="@Url.Action("GioHang", "GioHang")"
+                   style="color: rgb(14, 12, 12); background: rgb(255, 255, 255); border-style: none; padding: 0.6rem 1rem;">
+
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="1em"
+                         height="1em"
+                         fill="currentColor"
+                         viewBox="0 0 16 16"
+                         class="bi bi-basket text-center"
+                         style="font-size: 30;">
+                        <path d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9H2zM1 7v1h14V7H1zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5z"></path>
+                    </svg>
+                    <sup style="padding: 7px 5px; float: right; border: 1px solid red; background-color: red; color: white; border-radius: 70%">@Html.Action("GioHangPartial", "GioHang")</sup>
+                </a>
+            </div>
+        </div>
+    </nav>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function () {
+    $('#searchBox').on('input', function () {
+        var query = $(this).val();
+
+        if (query.length > 1) {
+            $.ajax({
+                url: '@Url.Action("SearchSuggestions", "Sach")', // Action trả về gợi ý
+                type: 'GET',
+                data: { term: query },
+                success: function (response) {
+                    var suggestionList = $('#suggestionList');
+                    suggestionList.empty();
+
+                    if (response.length > 0) {
+                        suggestionList.show();
+                        response.forEach(function (item) {
+                            suggestionList.append(`<a href="${item.id}">
+                                <li class="list-group-item suggestion-item" data-name="${item.name}">
+                                    <img src="${item.image}" alt="${item.name}" style="width: 70px; height: 100px; margin-right: 10px;">
+                                    <span>${item.name}</span>
+                                </li>
+                                </a>
+                            `);
+                        });
+                    } else {
+                        suggestionList.hide();
+                    }
+                },
+                error: function () {
+                    console.error('Lỗi khi lấy gợi ý.');
+                }
+            });
+        } else {
+            $('#suggestionList').hide();
+        }
+    });
+
+    // Khi click vào gợi ý, điền vào ô tìm kiếm
+    $('#suggestionList').on('click', '.suggestion-item', function () {
+        $('#searchBox').val($(this).data('name'));
+        $('#suggestionList').hide();
+    });
+});
+
+</script>

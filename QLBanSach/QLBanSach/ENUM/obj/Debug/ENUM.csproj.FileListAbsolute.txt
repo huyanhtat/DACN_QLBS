@@ -1,0 +1,96 @@
+D:\QLBanSach_project-Nghia\QLBanSach\ENUM\bin\Debug\ENUM.dll
+D:\QLBanSach_project-Nghia\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+D:\QLBanSach_project-Nghia\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+D:\QLBanSach_project-Nghia\QLBanSach\ENUM\obj\Debug\ENUM.dll
+D:\QLBanSach_project-Nghia\QLBanSach\ENUM\obj\Debug\ENUM.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\ENUM\bin\Debug\ENUM.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\ENUM\obj\Debug\ENUM.dll
+C:\Users\NGHIA\Desktop\QLBanSach_project-Nha\QLBanSach\ENUM\obj\Debug\ENUM.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.pdb
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+C:\Tools\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\Tools\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.pdb
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.xml
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.xml
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.xml
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.xml
+C:\Tools\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CopyComplete
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Tools\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.AssemblyReference.cache
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.dll
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.xml
+C:\Users\NGHIA\Desktop\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CopyComplete
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.xml
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.xml
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.xml
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.xml
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.xml
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CopyComplete
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.dll
+D:\UDPMTM\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\ENUM.pdb
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\bin\Debug\zxing.presentation.xml
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.AssemblyReference.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.CoreCompileInputs.cache
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.csproj.Up2Date
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.dll
+C:\Users\Anh Huy\Downloads\DA_QLBS\SOURCE\QLBanSach\QLBanSach\ENUM\obj\Debug\ENUM.pdb

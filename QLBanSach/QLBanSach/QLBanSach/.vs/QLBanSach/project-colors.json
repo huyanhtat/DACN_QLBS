@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2d94163-54f1-453a-b402-b36d8b5c7e6b": {
+      "ProjectGuid": "e2d94163-54f1-453a-b402-b36d8b5c7e6b",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "b86e1d13-40ff-4c8c-b764-9d925a6148e5": {
+      "ProjectGuid": "b86e1d13-40ff-4c8c-b764-9d925a6148e5",
+      "DisplayName": "BLL",
+      "ColorIndex": 1
+    },
+    "401107ef-374d-4fb2-9b05-83e7b46529ea": {
+      "ProjectGuid": "401107ef-374d-4fb2-9b05-83e7b46529ea",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "4f66cb0f-05ae-4153-bc96-2491290595ec": {
+      "ProjectGuid": "4f66cb0f-05ae-4153-bc96-2491290595ec",
+      "DisplayName": "DTO",
+      "ColorIndex": 3
+    },
+    "aab681df-2550-49f0-af40-2d7706035520": {
+      "ProjectGuid": "aab681df-2550-49f0-af40-2d7706035520",
+      "DisplayName": "QLBanSach",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,246 @@
+﻿@model IEnumerable<QuanLySach.Models.GioHang>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <link rel="icon" href="/assets/img/bookstore.ico" type="image/x-icon" />
+    <title>Giỏ Hàng</title>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Inter:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;display=swap" />
+    <!--CSS-->
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/fonts/fontawesome-all.min.css" />
+    <link rel="stylesheet" href="/assets/fonts/simple-line-icons.min.css" />
+    <link rel="stylesheet" href="/assets/css/Hero-Clean-Reverse.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="/assets/css/Light-Contact-List.css" />
+    <link rel="stylesheet" href="/assets/css/Login-with-overlay-image.css" />
+    <link rel="stylesheet" href="/assets/css/Pretty-Product-List.css" />
+    <link rel="stylesheet" href="/assets/css/Simple-Slider.css" />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/css/Team.css" />
+    <link rel="stylesheet" href="/assets/css/reponsive.css" />
+    <link rel="stylesheet" href="/assets/css/rieng.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css">
+
+    <!--Custom js-->
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <link rel="stylesheet" href="/assets/basket.css" />
+</head>
+
+<body style="/*background: url(&quot;design.jpg&quot;);*/ background-position: 0 -60px">
+    <div class="container header">
+        @Html.Action("HeaderKH", "Layout")
+        <section class="py-4 py-xl-5"></section>
+        <div class="text-center p-4 p-lg-5">
+            <h1 class="fw-bold mb-4" style="font-family: EB Garamond; font-size: 116px; transform: translate(76px)">GIỎ HÀNG</h1>
+            <div class="float-start"
+                 style="
+                        margin: 0px;
+                        padding: 0px;
+                        width: 1101px;
+                        font-family: Heebo;
+                        text-align: justify;
+                        transform: translate(190px) scale(1.2);
+                        margin-left: -24px;
+                    ">
+                <div class="basket">
+                    <div class="basket-labels">
+                        <ul>
+                            <li class="subtotal" style="text-align: center">Hình ảnh</li>
+                            <li class="subtotal" style="text-align: center; width: 92px;margin-left: 10px">Sản Phẩm</li>
+                            <li class="subtotal" style="text-align: center; margin-left: 78px; ">Giá</li>
+                            <li class="subtotal" style="text-align: center; margin-left: 50px">Số Lượng</li>
+                            <li class="subtotal" style="text-align: center; ">Tổng Tiền</li>
+                            <li class="subtotal" style="text-align: center"></li>
+                        </ul>
+                    </div>
+                    @foreach (var item in Model)
+                    {
+                        <div class="basket-product">
+                            <div class="name" style=" max-width: 321px;">
+                                <div class="product-image">
+                                    <img src="@Url.Action("GetImage", "Sach", new { id = item.MaSach })"
+                                         alt="Placholder Image 2"
+                                         class="product-frame" />
+                                </div>
+                                <div class="product-details">
+                                      <strong style="font-size: 18px">@item.TenSach </strong>
+                                </div>
+                            </div>
+                            <div class="gia" style="float: left; margin-right: 70px;">@string.Format("{0:N0}", item.DonGia) VNĐ</div>
+                            <div class="quantity">
+                                <button class="btn-decrease" data-masach="@item.MaSach">-</button>
+                                <input aria-label="quantity"
+                                       class="input-qty"
+                                       max="10"
+                                       min="1"
+                                       name=""
+                                       type="number"
+                                       value="@item.SoLuong"
+                                       data-masach="@item.MaSach" style="align-items: center"/>
+                                <button class="btn-increase" data-masach="@item.MaSach">+</button>
+                            </div>
+                            <div class="total-price">
+                                <div class="tongtien">@string.Format("{0:N0}", item.ThanhTien) VNĐ</div>
+                            </div>
+                            <div class="remove" style="">
+                                <a href="@Url.Action("XoaGioHang", "GioHang", new { @ms = item.MaSach })"><button>Xóa</button></a>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <aside>
+                    <div class="summary" style="font-size: 12px">
+                        <div class="summary-total-items"><span class="total-items">@ViewBag.TongSanPham</span> Sản Phẩm Của Bạn</div>
+                        <div class="summary-subtotal">
+                            <div class="subtotal-title">Tổng Tiền</div>
+                            <div class="tongtien">@string.Format("{0:N0}", @ViewBag.TongThanhTien) VND</div>
+                            <div class="subtotal-title">Tổng Số Lượng</div>
+                            <div class="soluong">@string.Format("{0:N0}", @ViewBag.TongSoLuong)</div>
+                            <div class="summary-promo hide">
+                                <div class="promo-title">Promotion</div>
+                                <div class="promo-value final-value" id="basket-promo"></div>
+                            </div>
+                        </div>
+                        <div class="input-group mt-3">
+                            <input type="text" id="discountCodeInput" class="form-control" placeholder="Nhập Mã" style="font-size: 15px" />
+                            <button class="btn-sm btn-outline-primary" id="applyDiscountButton">Apply</button>
+                        </div>
+                        <div id="discountMessage" class="mt-2"></div> 
+                        <div class="summary-total" style="font-size: 12px">
+                            <div class="total-title">Thành Tiền</div>
+                            <div id="discountDetails">@string.Format("{0:N0}", @ViewBag.TongThanhTien) VND</div>
+                        </div>
+                        <div class="summary-checkout">
+                            <a href="@Url.Action("ThanhToan", "GioHang")"><button class="checkout-cta">TIẾP TỤC</button></a>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bs-init.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="/assets/js/basket.js"></script>
+    <script src="/assets/js/bold-and-bright.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js"></script>
+    <script src="/assets/js/price.js"></script>
+    <script src="/assets/js/Simple-Slider.js"></script>
+    <script>
+    $(document).ready(function () {
+        $('#applyDiscountButton').click(function () {
+            var discountCode = $('#discountCodeInput').val();
+
+            $.ajax({
+                url: '@Url.Action("ApplyDiscountCode", "GioHang")',
+                type: 'POST',
+                data: { discountCode: discountCode },
+                success: function (response) {
+                        if (response.discountedTotal !== undefined) {
+                        $('#discountMessage').html('<span class="text-success">Áp dụng mã thành công</span>');
+                        
+                        // Display the discount details and final total
+                        $('#discountDetails').html(
+                            response.discountAmount + ' VND'
+                        );
+                    } else {
+                        $('#discountMessage').html('<span class="text-danger">' + response.message + '</span>');
+                        
+                    }
+                },
+                error: function () {
+                    $('#discountMessage').html('<span class="text-danger">Lỗi. Xin thử lại</span>');
+                }
+            });
+        });
+    });
+    </script>
+    <script>
+$(document).ready(function () {
+    // Xử lý nút tăng
+    $('.btn-increase').on('click', function () {
+        var input = $(this).siblings('.input-qty'); // Tìm ô nhập số lượng
+        var currentQuantity = parseInt(input.val());
+        var maSach = $(this).data('masach');
+
+        // Tăng số lượng
+        if (currentQuantity < 10) { // Giới hạn tối đa là 10
+            input.val(currentQuantity + 1);
+            updateQuantity(maSach, currentQuantity + 1);
+        } else {
+            alert('Không thể tăng số lượng thêm.');
+        }
+    });
+
+    // Xử lý nút giảm
+    $('.btn-decrease').on('click', function () {
+        var input = $(this).siblings('.input-qty'); // Tìm ô nhập số lượng
+        var currentQuantity = parseInt(input.val());
+        var maSach = $(this).data('masach');
+
+        // Giảm số lượng
+        if (currentQuantity > 1) { // Không cho giảm dưới 1
+            input.val(currentQuantity - 1);
+            updateQuantity(maSach, currentQuantity - 1);
+        } else {
+            alert('Không thể giảm số lượng thêm.');
+        }
+    });
+
+    // Cập nhật số lượng khi thay đổi thủ công
+    $('.input-qty').on('change', function () {
+        var newQuantity = parseInt($(this).val());
+        var maSach = $(this).data('masach');
+
+        // Kiểm tra giá trị hợp lệ
+        if (newQuantity < 1 || isNaN(newQuantity)) {
+            alert('Số lượng không hợp lệ. Sẽ đặt lại thành 1.');
+            $(this).val(1);
+            newQuantity = 1;
+        } else if (newQuantity > 10) {
+            alert('Bạn đang đặt số lượng lớn cần liên hệ BookStore qua số điện thoại: 0354069220');
+            $(this).val(10);
+            newQuantity = 10;
+        }
+
+        updateQuantity(maSach, newQuantity);
+    });
+
+    // Hàm AJAX cập nhật số lượng
+    function updateQuantity(maSach, soLuong) {
+    $.ajax({
+        url: '@Url.Action("CapNhatGioHang", "GioHang")',
+        type: 'POST',
+        data: { MaSP: maSach, txtSoLuong: soLuong },
+        success: function (response) {
+            if (response.success) {
+                // Cập nhật tổng số lượng và tổng tiền
+                $('#discountDetails').html(response.totalPrice);
+                $('.total-items').html(response.totalQuantity);
+                $('.soluong').html(response.totalQuantity);
+                $('.tongtien').html(response.totalPrice);
+            } else {
+                alert(response.message || 'Không thể cập nhật số lượng.');
+            }
+        },
+        error: function () {
+            alert('Lỗi xảy ra khi cập nhật số lượng.');
+        }
+    });
+}
+
+});
+
+    </script>
+</body>
+</html>
+
